@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Gabriel Miguel
-- 👀 I’m interested in games, programming, social cience, philosophy, music and films
-- 🌱 I’m currently learning python
-- 📫 How to reach me: Instagram - @GMiguel99 | Linkedin: .../in/gabriel-miguel-97320b184/
+<h3>Seja Bem Vindo ao meu Github</h3>
+<h4>Se você chegou até aqui e não conhece, aqui vai uma pequena apresentação!</h4>
 
-<!---
-GMiguel99/GMiguel99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Meu nome é Gabriel Miguel, mas pode me chamar só de Gabriel ou só de Miguel (você é quem decide kkkk)
+- Sou licenciando em Ciências Sociais pela Universidade Estadual do Rio de Janeiro.
+- Sou amante dos video games desde pequeno e esse foi um dos fatores cruciais que fizeram eu me interessar pelas áreas tecnológicas.
+- Em 2017, comecei a me aventurar na montagem de computadores e a estudar de brincadeira programação (não durou muito tempo kkk), MAAAAAAS em 2018 resolvi parar de brincadeira e fui buscar uma formação de fato nessa área.
+- Comecei a cursar Desenvolvimento de Software pela <a target="_blank" href="https://itstep.com.br/curso-de-programacao">Step Computer Academy</a>, mas infelizmente tive que trancar durante a pandemia devido a falta de adaptação ao curso online.
+- Agora em 2022, estou voltando aos meus estudos de programação. Estou esperando turma pra voltar ao curso da Step, entretanto não estou parado e comecei a cursar <a target="_blank" href="https://ebaconline.com.br/python-para-dados">Python para Análise de Dados pela EBAC</a>!
+- Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
+
+<h4>Espero que tenham curtido e vum bora nessa caminhada como programado!</h4>
