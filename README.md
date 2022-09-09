@@ -9,4 +9,4 @@
 - Agora em 2022, estou voltando aos meus estudos de programação. Estou esperando turma pra voltar ao curso da Step, entretanto não estou parado e comecei a cursar <a target="_blank" href="https://ebaconline.com.br/python-para-dados">Python para Análise de Dados pela EBAC</a>!
 - Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
 
-<h4>Espero que tenham curtido e vum bora nessa caminhada como programado!</h4>
+<h4>Espero que tenham curtido e vum bora nessa caminhada como programador!</h4>
