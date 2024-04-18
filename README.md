@@ -8,6 +8,6 @@
 - Em 2022, fiz um curso introdutório de análise de dados, aprendi algumas coisas na faculdade voltadas para essa área também.
 - Agora em 2024, voltei com os estudos de programação, estando mais do que nunca focado em atuar na área.
 - Além disso, estou tentando montar a primeira empresa jr. de pesquisa do meu curso na faculdade que, infelizmente, segue sofrendo com as burocracias para iniciar um projeto.
-- Segue ai meu <a href="https://www.linkedin.com/in/gabriel-miguel-97320b184/">Linkedin</a> que lá vou soltar alguns vídeos mostrando os projetos que estão 
+- Segue ai meu <a href="https://www.linkedin.com/in/gabriel-miguel-97320b184/">Linkedin</a> que lá vou soltar alguns vídeos mostrando os projetos que estão aqui no git.
 - Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
 - Forte abraço a todos! E bora codar!
