@@ -11,3 +11,7 @@
 - Segue ai meu <a href="https://www.linkedin.com/in/gabriel-miguel-97320b184/">Linkedin</a> que lá vou soltar alguns vídeos mostrando os projetos que estão aqui no git.
 - Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
 - Forte abraço a todos! E bora codar!
+<div align="center">
+  <a href="https://github.com/rwsleal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmiguel99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
