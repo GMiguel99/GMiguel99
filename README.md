@@ -14,6 +14,6 @@
 - Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
 - Forte abraço a todos! E bora codar!
 <div align="center">
-  <a href="https://github.com/rwsleal">
+  <a href="https://github.com/GMiguel99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmiguel99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
