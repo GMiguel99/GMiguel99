@@ -10,7 +10,7 @@
 - Também tentei montar a primeira empresa jr de pesquisa do meu curso na faculdade que, infelizmente, sofreu com as burocracias para iniciar o projeto.
 - Outra coisa que aconteceu em 2024, foi o fato de eu ter conseguido o meu 1° emprego no SIMDUT - Núcleo de Simulações Termo-hidráulicas de Dutos.
 - Agora em 2025, sigo com os projetos da empresa, buscando cada dia mais melhorar como pessoa e profissional.
-- Segue ai meu <a href="https://www.linkedin.com/in/gabriel-miguel-97320b184/">Linkedin</a> que lá vou soltar alguns vídeos mostrando os projetos que estão aqui no git.
+- Segue ai meu <a href="https://www.linkedin.com/in/gabriel-miguel-97320b184/">Linkedin</a>.
 - Vou atualizando tanto o README quanto os repositórios ao longo dessa minha jornada!
 - Forte abraço a todos! E bora codar!
 <div align="center">
